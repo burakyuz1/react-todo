@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Yukarıdakileri import eder.
+// .js olmasa da olur.
+// klasor versen de index.js arar
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
